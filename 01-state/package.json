@@ -1,0 +1,17 @@
+{
+  "name": "0.0.1",
+  "version": "0.0.0",
+  "description": "primeros ejercicios prog funcional",
+  "main": "lowercaser.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^21.1.0"
+  }
+}
